@@ -2,7 +2,9 @@
 
 A simple, flexible QR code generator available in both **Python** and **JavaScript (web)** versions. Easily create QR codes for any URL with optional customization for size, border, and colors.
 
-<img src="assets/example.png" alt="QR Code Generator in Web browser" width="300">
+<p align="center">
+  <img src="assets/example.png" alt="QR Code Generator in Web browser" width="600" style="text-align: center;">
+</p>
 
 ---
 
